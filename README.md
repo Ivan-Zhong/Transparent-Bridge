@@ -14,7 +14,7 @@
 
 我使用的Qt Creator版本如下：
 
-<img src=./README.assets/image-20210625235636830.png" alt="image-20210625235636830" style="zoom:50%;" />
+<img src="./README.assets/image-20210625235636830.png" alt="image-20210625235636830" style="zoom:50%;" />
 
 
 
