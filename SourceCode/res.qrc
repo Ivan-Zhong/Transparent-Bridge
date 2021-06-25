@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/all.png</file>
+        <file>images/datagram.png</file>
+        <file>images/blue.png</file>
+        <file>images/gray.png</file>
+        <file>images/red.png</file>
+        <file>images/machine.png</file>
+        <file>images/machine2.png</file>
+        <file>images/machine3.png</file>
+        <file>images/Bridge1.png</file>
+        <file>images/Bridge2.png</file>
+    </qresource>
+</RCC>
